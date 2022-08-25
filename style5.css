@@ -1,0 +1,23 @@
+.tr1 {
+    background-color: rgb(121, 219, 121);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+td {
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tr2 {
+    background-color: white;
+}
+
+.tr3 {
+    background-color: rgb(121, 219, 121);
+}
+
+.tr5 {
+    background-color: rgb(121, 219, 121);
+}
